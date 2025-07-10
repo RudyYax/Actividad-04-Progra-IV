@@ -29,7 +29,7 @@ while(opcion != 5):
         print("Gracias por utilizar nuestro programa")
         break
     else:
-        print("Opcion No encontrada o no valida.")
+        print("Opcion No encontrada o no valida. Intente de nuevo")
 
 
 
