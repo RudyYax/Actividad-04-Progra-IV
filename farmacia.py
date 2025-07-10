@@ -31,7 +31,7 @@ while True:
         else:
             print("La pila esta vacia.")
 
-    elif opcion==4:
+    elif opcion=="4":
         print("Saliendo del programa .")
         break
 
