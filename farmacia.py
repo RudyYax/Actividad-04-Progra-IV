@@ -32,7 +32,7 @@ while True:
             print("La pila esta vacia.")
 
     elif opcion==4:
-        print("Saliendo del programa.")
+        print("Saliendo del programa .")
         break
 
 
