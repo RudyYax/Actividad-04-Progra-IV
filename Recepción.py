@@ -6,8 +6,11 @@ print("1.- Registrar un nuevo paciente")
 print("2.- Atender al paciente")
 print("3.- Mostrar pacientes en cola")
 print("4.- Salir")
+opcion = input("Seleccione una opción: ")
+if opcion == "1":
+    Paciente = input("Nombre del paciente que va registrar: ")
+    cola_Pacientes.append(Paciente)
 
-if opcion == 1:
-    print("Registrar un nuevo paciente")
-    print()
+
+
 
