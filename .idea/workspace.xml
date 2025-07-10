@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="23babc5c-18f3-46dd-a08b-5e3a46d05b0d" name="Changes" comment="Commit Rudy">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="23babc5c-18f3-46dd-a08b-5e3a46d05b0d" name="Changes" comment="Segundo commit Rudy">
       <change beforePath="$PROJECT_DIR$/Recepción.py" beforeDir="false" afterPath="$PROJECT_DIR$/Recepción.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -51,6 +50,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.Recepción.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "Rama-de-Rudy",
     "node.js.detected.package.eslint": "true",
@@ -77,7 +77,7 @@
       <option name="presentableId" value="Default" />
       <updated>1752107475105</updated>
       <workItem from="1752107475803" duration="789000" />
-      <workItem from="1752108354444" duration="633000" />
+      <workItem from="1752108354444" duration="1113000" />
     </task>
     <task id="LOCAL-00001" summary="primer Commit">
       <option name="closed" value="true" />
@@ -111,7 +111,23 @@
       <option name="project" value="LOCAL" />
       <updated>1752108556883</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Primer commit Rudy">
+      <option name="closed" value="true" />
+      <created>1752109066663</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1752109066663</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Segundo commit Rudy">
+      <option name="closed" value="true" />
+      <created>1752109421363</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1752109421363</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -133,6 +149,11 @@
     <MESSAGE value="Creacion De Rama" />
     <MESSAGE value="Creacion De Rama Rudy" />
     <MESSAGE value="Commit Rudy" />
-    <option name="LAST_COMMIT_MESSAGE" value="Commit Rudy" />
+    <MESSAGE value="Primer commit Rudy" />
+    <MESSAGE value="Segundo commit Rudy" />
+    <option name="LAST_COMMIT_MESSAGE" value="Segundo commit Rudy" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Actividad4$Recepción.coverage" NAME="Recepción Coverage Results" MODIFIED="1752109449481" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>

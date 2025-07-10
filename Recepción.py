@@ -7,10 +7,17 @@ print("2.- Atender al paciente")
 print("3.- Mostrar pacientes en cola")
 print("4.- Salir")
 opcion = input("Seleccione una opción: ")
+
 if opcion == "1":
     Paciente = input("Nombre del paciente que va registrar: ")
     cola_Pacientes.append(Paciente)
-
+    print(f"el paciente {Paciente} se agrego a la cola")
+elif opcion == "2":
+    if cola_Pacientes:
+        Atendido = cola_Pacientes.pop()
+        print(f"el paciente {Atendido} fue atendido con éxito")
+    else:
+        print("No se ha registrado ningún paciente")
 
 
 
